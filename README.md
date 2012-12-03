@@ -3,8 +3,8 @@ memcache
 
 Very simple implementation of a memory cache.
 
-Use
---------
+Start Server
+-----------
 
 For start:
 
