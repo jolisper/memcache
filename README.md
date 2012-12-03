@@ -8,7 +8,7 @@ Start Server
 
 For start:
 
-    $ ruby memcache/lib/memcache.rb `<port>`
+    $ ruby memcache/lib/memcache.rb <port>
 
 Default port is 5544.
 
